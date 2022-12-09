@@ -1,1 +1,1 @@
-# Hamming(7,  4)
+https://en.wikipedia.org/wiki/Hamming(7,4)
